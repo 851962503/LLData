@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "code":"1",
+      "verson":"1.0.1",
+      "data":"https://www.baidu.com"
+    }
+  ],
+  "profile": {
+    "name": "typicode",
+    "data":"code"
+  }
+}
