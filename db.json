@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "code":"0",
+      "code":"1",
       "verson":"1.0.1",
       "data":"https://www.sg6.com?mApp=5",
       "resper":"code"
